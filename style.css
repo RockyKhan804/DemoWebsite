@@ -1,6 +1,17 @@
 *{
-    margin:0;padding:0;
+    margin:0;
+    padding:0;
 }
 li.nav-item {
-    padding: 0px 10px;
+    padding: 0px 5px;
+}
+.mySlider{
+
+    height: 500px;
+
+}
+.carousel-item img{
+
+     height: 500px;
+
 }
